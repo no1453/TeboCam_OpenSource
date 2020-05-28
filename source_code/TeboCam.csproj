@@ -56,7 +56,7 @@
       <DependentUpon>calibrate.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CameraButtonsCntl.resx">
-      <DependentUpon>../CameraButtonsCntl.cs</DependentUpon>
+      <DependentUpon>CameraButtonsCntl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CameraWindow.resx">
       <DependentUpon>CameraWindow.cs</DependentUpon>
