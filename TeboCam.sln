@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeboCam", "TeboCam\TeboCam.csproj", "{0FF635C0-695D-467C-B13D-BCA92E137D4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeboCam", "TeboCam.csproj", "{0FF635C0-695D-467C-B13D-BCA92E137D4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
