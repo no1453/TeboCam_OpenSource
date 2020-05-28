@@ -289,12 +289,6 @@
     <Reference Include="System.XML" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\vfw\vfw.csproj">
-      <Project>{ECAA3D55-19AB-440B-B82E-221AE06C4A5B}</Project>
-      <Name>vfw</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\landscape.bmp" />
     <Content Include="Resources\1.gif" />
     <Content Include="Resources\2.gif" />
